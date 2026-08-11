@@ -5,7 +5,7 @@ Each presented Idea has the following attached files :
 2. A Formalization Attempt , using AI assisted writing and research I did myself combined to present the idea 
 3. A Correction Note, documenting exactly what mathematically failed in the Formalization, presenting the development of the idea. 
 4. A Cross Comparison with other Notes Showing how they the note the Idea relates to other notes I made. Possibly inspiring me to build a new one 
-
+5. A literature Note, referencing the most important papers used in the construction 
 Documents will refer to each other. This page welcomes Interactions and Ideas. 
 
 The mantra for running this page is: 
