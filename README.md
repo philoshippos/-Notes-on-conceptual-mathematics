@@ -12,5 +12,5 @@ The mantra for running this page is:
 "No Idea is wrong only its representation. Then the Question only becomes, how to extract the area where it becomes useful and is it worth it in your opinion?"
 
 Have fun with this
-I certainly am having fun. 
+I certainly am having fun:)
 
